@@ -1,0 +1,16 @@
+.nav-link-item {
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  transition: color 0.3s ease, background-color 0.3s ease;
+}
+
+.nav-link-item.active {
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+.nav-link-item:hover {
+  color: rgb(26, 4, 26);
+  background-color: hsla(208, 100%, 97%, 0.5);
+  transition: color 0.3s ease, background-color 0.3s ease;
+}

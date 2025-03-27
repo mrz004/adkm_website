@@ -1,0 +1,17 @@
+@import "tailwindcss";
+@plugin "flowbite-react/plugin/tailwindcss";
+@source "../.flowbite-react/class-list.json";
+
+@theme {
+  --color-cream-can: #f2c25c;
+  --color-punch: #d73c24;
+  --color-punch-400: #e1614d;
+  --color-graphite: #2f120a;
+  --color-coconut-cream: #f8efd7;
+  --color-primary-blue: #2d6bee;
+  --color-secondary-blue: #5c8cf2;
+}
+
+html {
+  scroll-behavior: smooth;
+}
