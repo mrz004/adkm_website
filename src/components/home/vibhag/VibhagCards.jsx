@@ -18,7 +18,7 @@ function VibhagCards() {
       link: "/sections/secondary",
     },
     {
-      title: "उच्छ प्राथमिक विभाग",
+      title: "उच्च माध्यमिक विभाग",
       image: img_hs,
       description: "इ.११ वी ते १२ वी (कला व विज्ञान)",
       link: "/sections/higher-secondary",

@@ -48,14 +48,14 @@ function Component() {
           <div>
             <FooterTitle title="Quick Contacts" />
             <FooterLinkGroup col>
-              <FooterLink href="tel:+91 9423239412">
-                डॉ. मेटकरी ए. एन्. - ९४२३२३९४१२{" "}
+              <FooterLink href="tel:+91 8308206566">
+                श्री. बोते आर. एल. - ८३०८२०६५६६{" "}
               </FooterLink>
               <FooterLink href="tel:+91 9022366575">
                 श्री. बेंदरे व्ही. बी. - ९०२२३६६५७५{" "}
               </FooterLink>
-              <FooterLink href="tel:+91 8308206566">
-                श्री. बोते आर. एल. - ८३०८२०६५६६{" "}
+              <FooterLink href="tel:+91 9423239412">
+                डॉ. मेटकरी ए. एन्. - ९४२३२३९४१२{" "}
               </FooterLink>
             </FooterLinkGroup>
           </div>
