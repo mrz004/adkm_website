@@ -1,6 +1,6 @@
 import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
-import { createBrowserRouter, RouterProvider } from "react-router";
+import { createHashRouter, RouterProvider } from "react-router";
 import App from "./App.jsx";
 import About from "./components/about/About";
 import Contact from "./components/contact/Contact";
@@ -14,7 +14,7 @@ import PrimarySection from "./components/sections/PrimarySection";
 import SecondarySection from "./components/sections/SecondarySection";
 import "./index.css";
 
-const router = createBrowserRouter([
+const router = createHashRouter([
   {
     path: "/",
     element: <App />,
